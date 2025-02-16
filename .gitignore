@@ -1,0 +1,43 @@
+# OS-specific files
+.DS_Store            # macOS Finder metadata
+Thumbs.db            # Windows image file cache
+
+# Node.js
+node_modules/        # Node.js dependencies
+npm-debug.log*       # npm debug logs
+yarn-debug.log*      # Yarn debug logs
+yarn-error.log*      # Yarn error logs
+dist/                # Distribution files
+build/               # Build directory (if applicable)
+coverage/            # Test coverage reports
+
+# Python
+__pycache__/         # Python bytecode caches
+*.pyc                # Python bytecode
+*.pyo                # Python optimized bytecode
+
+# Java
+*.class              # Compiled Java classes
+*.jar                # Java archive files
+*.war                # Web application archives
+
+# JavaScript (other)
+*.min.js             # Minified JavaScript files
+*.map                # Source map files for debugging
+
+# IDEs/Editors
+.idea/               # JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.vscode/             # VS Code workspace settings
+*.suo                # Visual Studio user options
+*.ntvs*              # Node.js Tools for Visual Studio files
+*.njsproj            # Visual Studio Node.js projects
+*.sln                # Visual Studio solutions
+*.sw?                # Swap files from text editors like Vim or Sublime
+
+# Logs and temp files
+*.log                # Log files
+*.tmp                # Temporary files
+
+# Environment variables
+.env                 # Environment file (often contains sensitive data)
+.env.local           # Local environment variables
