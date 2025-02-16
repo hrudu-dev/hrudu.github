@@ -1,14 +1,33 @@
-# Temporary Repository
+# Hrudu Shibu
 
-This repository is for temporary use, experimentation, and testing. It serves as a sandbox for trying out new ideas, code, or configurations.
+**System Administrator at Axcess.io | Cloud & Security Enthusiast**
 
-## Overview
+Welcome to my GitHub profile! I'm a system administrator with a deep passion for cloud computing, security, and continuous innovation. Currently, I specialize in optimizing IT infrastructures, ensuring cloud security, and driving operational efficiency.
 
-This is a temporary repository created to experiment with different code, test new features, or explore possible configurations for future projects. It will not be maintained long-term, and the content may change frequently.
+### 🔧 Skills & Expertise
+- **Cloud Computing:** AWS, Office 365, Salesforce
+- **Security:** CrowdStrike Falcon, System Hardening, Endpoint Protection
+- **Collaboration Tools:** Atlassian Suite (Jira, Confluence, Bitbucket)
+- **Infrastructure:** Automation, Monitoring, Backup & Recovery
+- **Programming Languages:** Bash, PowerShell, Python
 
-## Features
+### 💼 Professional Experience
+- **System Administrator** at Axcess.io
+  - Managing cloud environments and server infrastructures
+  - Ensuring security and compliance across systems
+  - Implementing automation for cloud operations and IT processes
 
-- Testing new code snippets
-- Experimenting with various configurations
-- Prototyping potential features
-- Temporary setup for proof-of-concept or quick demos
+### 🚀 Projects & Contributions
+- Contributing to open-source projects related to cloud infrastructure and security.
+- Collaborating with developers to enhance system performance and scalability.
+
+### 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/hrudushibu/)
+- [Medium](https://medium.com/@hrudu.ai)
+- [Dev.to](https://dev.to/aihrudu)
+
+Feel free to explore my repositories and let's collaborate!
+
+---
+
+*Always exploring new technologies to build the next big thing.*
